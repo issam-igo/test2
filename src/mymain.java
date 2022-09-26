@@ -13,4 +13,9 @@ public class mymain {
 		return x*2;
 		
 	}
+	
+	public int Mult20(int s) {
+		
+		return s*20;
+	}
 }
